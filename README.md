@@ -1,63 +1,72 @@
-# 👋 Hi, I'm Pratham Singla  
-
-🎓 B.Tech Student  
-💻 Passionate about DSA, Web Development & Data Analytics  
-🚀 Currently building MERN projects and exploring backend systems  
+<h1 align="center">Hi 👋, I'm Pratham Singla</h1>
+<h3 align="center">🚀 MERN Developer | 📊 Data Analytics Enthusiast | 💻 DSA Learner</h3>
 
 ---
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pratham-singla-81a65725a/)
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham-singla-81a65725a/">
+    <img src="https://img.shields.io/badge/LinkedIn-Pratham_Singla-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
 ---
 
-## 💻 Tech Stack:
-
-### 👨‍💻 Programming & Core
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-
-### 🌐 Web Development
-![HTML5](https://img.shields.io/badge/HTML5-orange?style=for-the-badge&logo=html5)
-![CSS3](https://img.shields.io/badge/CSS3-blue?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
-![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
-![Express.js](https://img.shields.io/badge/Express.js-grey?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge&logo=mongodb)
-
-### 📊 Data Analytics
-![Pandas](https://img.shields.io/badge/Pandas-purple?style=for-the-badge&logo=pandas)
-![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-orange?style=for-the-badge)
-
-### 🛠️ Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS%20Code-blue?style=for-the-badge&logo=visualstudiocode)
+## 🧠 About Me
+- 🎓 B.Tech Student  
+- 💻 Skilled in MERN Stack (MongoDB, Express, Node.js)  
+- 📊 Experience in Data Analysis (Pandas, NumPy, Matplotlib)  
+- 🧩 Strong interest in DSA  
+- 🚀 Building real-world backend projects  
 
 ---
 
-## 📊 GitHub Stats:
+## 💻 Tech Stack
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pratham7829&show_icons=true&theme=tokyonight&cache_seconds=1800)
+<p align="center">
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Pratham7829&theme=tokyonight&cache_seconds=1800)
+<img src="https://skillicons.dev/icons?i=cpp,python,html,css,js,nodejs,express,mongodb,git,github,vscode" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham7829&layout=compact&theme=tokyonight)
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Pratham7829&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=Pratham7829&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham7829&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
 ## 🚀 Current Focus
-- 🔹 Data Structures & Algorithms (DSA)
-- 🔹 Backend Development (Node.js + Express)
-- 🔹 MERN Stack Projects
-- 🔹 Data Analytics & Visualization  
+- 🔹 Data Structures & Algorithms  
+- 🔹 Backend Development (Node.js + Express)  
+- 🔹 MERN Stack Projects  
+- 🔹 Data Analytics  
 
 ---
 
 ## 📌 Projects
-- 🫀 **Health Monitoring and Disease Prediction Agent**  
-  (MongoDB + Express + Node.js)
 
-- ✍️ **Blogging Platform**  
-  (MongoDB + Express + Node.js)
+### 🫀 Health Monitoring and Disease Prediction Agent  
+🔹 Built using MongoDB, Express, Node.js  
+🔹 Integrates ML predictions with backend system  
+
+---
+
+### ✍️ Blogging Platform  
+🔹 Full-stack backend using MERN  
+🔹 CRUD operations, authentication-ready structure  
+
+---
+
+## 🔥 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pratham7829&theme=tokyo-night&hide_border=true" />
+</p>
