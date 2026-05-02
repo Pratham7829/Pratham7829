@@ -33,12 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pratham7829&show_icons=true&theme=default" />
-  <img src="https://streak-stats.demolab.com?user=Pratham7829&theme=default" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pratham7829&layout=compact&theme=default" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Pratham7829&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Pratham7829&theme=tokyonight" />
 </p>
 
 ---
